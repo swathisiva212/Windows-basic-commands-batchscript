@@ -45,6 +45,7 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ## COMMAND AND OUTPUT
 mkdir%user profile%\Dekstop\Backup
+
 copy MyFile.txt %user profile%\Dekstop\Backup
 ![image](https://github.com/swathisiva212/Windows-basic-commands-batchscript/assets/155249892/0b185eee-aaa6-4667-aac6-5d75a9f214ae)
 
